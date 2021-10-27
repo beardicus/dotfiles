@@ -1,0 +1,32 @@
+# mac frass
+._*
+.Trashes
+Thumbs.db
+.DS_Store
+.DS_Store?
+ehthumbs.db
+.Spotlight-V100
+.AppleD*
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# secrets
+.env
+.envrc
+
+# logs and dbs
+*.log
+*.sql
+*.sqlite
+
+# zips and such
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+

@@ -1,0 +1,9 @@
+[user]
+    name  = Brian Boucheron
+    email = brian@boucheron.org
+
+[core]
+    editor = vim
+    pager  = less -r
+    excludesfile = ~/.gitignore
+
